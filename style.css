@@ -65,7 +65,7 @@ p {
 .brand h1 {
 	font-size: 3rem;
 	text-transform: uppercase;
-	color: white;
+	color: rgb(170, 144, 82);
 }
 .brand h1 span {
 	color: rgb(93, 56, 74);
